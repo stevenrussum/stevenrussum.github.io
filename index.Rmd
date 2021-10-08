@@ -1,0 +1,32 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Steven's awesome website
+
+
+```{r}
+rnorm(10)
+```
+
+## Links
+
+tools for datascience
+
+* [Google](https://google.com)
+* [P8105](https://p8105.com)
+
+## Local image
+
+Bodhi!!
+
+![](images/IMG_0545.JPG)
+
+## Link to page within site
+
+[About me](about.html)
+
