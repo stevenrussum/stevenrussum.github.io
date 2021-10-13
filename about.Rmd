@@ -7,3 +7,6 @@ output:
 ---
 
 # This page has information about me
+
+My name is Steven Russum. I am a research assistant at Columbia University
+studying microbiology in relation to lung transplantation. I like milk.

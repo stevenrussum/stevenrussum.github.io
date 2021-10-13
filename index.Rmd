@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Steven's website"
 output: 
   html_document:
     toc: true
@@ -8,6 +8,20 @@ output:
 
 # This is Steven's awesome website
 
+[About me](about.html)
+
+## Steven's thought's on things
+Vaccines = Beta
+
+K. Dew = Low T
+
+Dragons = Alpha
+
+Heady = Boss
+
+
+
+### 
 
 ## Links
 
@@ -16,13 +30,7 @@ tools for datascience
 * [Google](https://google.com)
 * [P8105](https://p8105.com)
 
-## Local image
+## Bodhi!!
 
-Bodhi!!
-
-![](images/IMG_0545.JPG)
-
-## Link to page within site
-
-[About me](about.html)
+<img src ="images/IMG_0545.JPG" style="width:50%">
 
