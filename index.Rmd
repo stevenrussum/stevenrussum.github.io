@@ -9,10 +9,6 @@ output:
 # This is Steven's awesome website
 
 
-```{r}
-rnorm(10)
-```
-
 ## Links
 
 tools for datascience
